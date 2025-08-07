@@ -33,12 +33,13 @@ webstore/
 
 ## Preview
 
-![INDEX.PHP](image.png)
-![INDEX.PHP](image-1.png)
-![PRIA](image-2.png)
-![WANITA](image-3.png)
-![ABOUT](image-4.png)
-![CONTACTUS](image-5.png)
+![INDEX.PHP](preview/image.png)  
+![INDEX.PHP](preview/image-1.png)  
+![PRIA](preview/image-2.png)  
+![WANITA](preview/image-3.png)  
+![ABOUT](preview/image-4.png)  
+![CONTACT US](preview/image-5.png)
+
 
 ## Note
 
