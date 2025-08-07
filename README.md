@@ -17,7 +17,7 @@
 - HTML/CSS/JavaScript
 - XAMPP (Localhost)
 
-## 📁 Struktur Folder
+## Struktur Folder
 webstore/
 │
 ├── index.php
